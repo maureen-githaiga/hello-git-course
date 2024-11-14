@@ -1,3 +1,6 @@
+*.in
+*.out
+*.pyc
 build-*
 *.o
 local_configurations.py
